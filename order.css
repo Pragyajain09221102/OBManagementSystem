@@ -1,0 +1,61 @@
+    input::-webkit-calendar-picker-indicator {
+            opacity:100;
+}
+.i1{
+    text-align: center;
+}
+
+#sel{
+    width:230px;
+    border:2px solid black;
+}
+.d3{
+        font-weight: bold;
+        font-size: 22px;
+        display: inline-block;
+        margin-top:10px;
+        margin-left:10px;
+}
+
+.container{
+    margin-top:10px;
+    min-height:400px;
+    height:auto;
+border:5px solid black;
+}
+.table{
+    font-weight:bold;
+    font-size:19px;
+    width:100%;
+    margin-top:80px;
+    
+}
+.c{
+           margin-top:10px;
+    min-height:400px;
+    height:auto;
+    font-weight: bolder;
+    font-size:20px;
+    padding-bottom: 10px;
+}
+input{
+    text-align: center;
+    border:2px solid black;
+    font-weight: bold;
+    font-size:19px;
+}
+input::-webkit-calendar-picker-indicator {
+opacity:100;
+}
+            .btn{
+                font-size: 19px;
+                font-weight: bold;
+                width:150px;
+                
+            }
+            .btn:hover{
+                border:3px solid black;
+            }
+            #a1{
+                text-decoration: none;
+            }

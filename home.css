@@ -1,0 +1,108 @@
+            .container
+            {
+                position: absolute;
+                width:30%;
+                height:350px;
+                top:50%;
+                left:50%;
+                transform:translate(-50%,-50%);
+                -webkit-transform:translate(-50%,-50%);
+                -moz-transform:translate(-50%,-50%);
+                -ms-transform:translate(-50%,-50%);
+                -o-transform:translate(-50%,-50%);
+}
+            .d1{
+                position: absolute;
+                top:50%;
+                left:50%;
+                transform:translate(-50%,-50%);
+                -webkit-transform:translate(-50%,-50%);
+                -moz-transform:translate(-50%,-50%);
+                -ms-transform:translate(-50%,-50%);
+                -o-transform:translate(-50%,-50%);
+}
+            .c{
+                position: absolute;
+                top:50%;
+                left:50%;
+                transform:translate(-50%,-50%);
+                height:900px;
+                width:350px;
+                border:6px solid black !important;
+                background-color:yellow;
+                -webkit-transform:translate(-50%,-50%);
+                -moz-transform:translate(-50%,-50%);
+                -ms-transform:translate(-50%,-50%);
+                -o-transform:translate(-50%,-50%);
+}
+            .b1{
+                height:60px;
+                width:230px;
+                text-align: center;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+                border:2px solid black;
+                background-color:greenyellow;
+                
+            }
+            .b1:hover{
+        
+                border:3px solid black;
+            }
+            .b2{
+                height:60px;
+                width:230px;
+                text-align: center;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+                border:2px solid black;
+                background-color:greenyellow;
+            }
+            .b2:hover{
+                
+                border:3px solid black;
+            }
+            .b3{
+                height:60px;
+                width:230px;
+                text-align: center;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+                border:2px solid black;
+                background-color:greenyellow;
+            }
+            .b3:hover{
+                
+                border:3px solid black;
+            }
+            .b4{
+                height:60px;
+                width:230px;
+                text-align: center;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+                border:2px solid black;
+                background-color:greenyellow;
+            }
+            .b4:hover{
+                
+                border:3px solid black;
+            }
+            .b5{
+                height:60px;
+                width:230px;
+                text-align: center;
+                font-weight: bold;
+                font-size: 18px;
+                margin-bottom: 10px;
+                border:2px solid black;
+                background-color:greenyellow;
+            }
+            .b5:hover{
+                
+                border:3px solid black;
+            }
